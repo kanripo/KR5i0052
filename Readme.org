@@ -1,13 +1,3 @@
-#+TITLE: 易說 / CK-KZ
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 17:53:08.472264
-* 版本
- |     CK-KZ|【重刊道藏輯要】|
- |      YP-C|【原版道藏輯要】|
-目次
- - [[file:KR5i0052_001.txt][易說 1]]
- - [[file:KR5i0052_002.txt][易說 2]]
- - [[file:KR5i0052_003.txt][易說 3]]
- - [[file:KR5i0052_004.txt][易說 4]]
- - [[file:KR5i0052_005.txt][易說 5]]
- - [[file:KR5i0052_006.txt][易說 6]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
