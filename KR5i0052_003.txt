@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:53:08.265469
+#+DATE: 2015-08-29 17:53:08.740297
 #+PROPERTY: ID KR5i0052
-#+TITLE:易說 Yishuo
+#+TITLE:易説
+#+PROPERTY: pinyin Yishuo
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-KZ_KR5i0052_03p001a>¶
@@ -43,4 +44,4 @@
 　　天根月窟圖解¶
 　　陰陽消息圖解¶
 　　卦序圖解¶
-¶	
+¶
